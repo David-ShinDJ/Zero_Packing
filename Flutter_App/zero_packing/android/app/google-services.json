@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "439540108756",
+    "project_id": "dtd-packing",
+    "storage_bucket": "dtd-packing.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439540108756:android:3e3bb6cef6f8bf42a95a41",
+        "android_client_info": {
+          "package_name": "com.example.dtd_packing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjZ7r8-IojQKUn5JhmFw4zEsxFK5azr-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:439540108756:android:250f633be7b69adea95a41",
+        "android_client_info": {
+          "package_name": "com.example.zero_packing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjZ7r8-IojQKUn5JhmFw4zEsxFK5azr-w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
